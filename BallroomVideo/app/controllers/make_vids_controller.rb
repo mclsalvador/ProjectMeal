@@ -1,0 +1,2 @@
+class MakeVidsController < ApplicationController
+end
